@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋 I'm Shreya Panale</h1>
 <h3 align="center">Student at PES University Electronic City Campus, Bangalore</h3>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShreyaPanale" alt="ShreyaPanale" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shreya-panale" alt="shreya-panale" /> </p>
 <br>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShreyaPanale&show_icons=true&locale=en&theme=tokyonight" alt="ShreyaPanale" /></p>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaPanale&layout=compact&theme=tokyonight " alt="ShreyaPanale" />
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreya-panale&show_icons=true&locale=en&theme=tokyonight" alt="shreya-panale" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreya-panale&layout=compact&theme=tokyonight " alt="shreya-panale" />
 </p>
 <br>
 
-🔭  I’m currently working on my coding skills by challenging myself with [100DaysOfCode](https://github.com/ShreyaPanale/100DaysOfCode) challenge
+🔭  I’m currently working on my coding skills by challenging myself with [100DaysOfCode](https://github.com/shreya-panale/100DaysOfCode) challenge
 
 🌱 I’m currently learning : [Cypress](https://www.cypress.io/)
 
-💻  All of my projects are available [here](https://github.com/ShreyaPanale?tab=repositories)
+💻  All of my projects are available [here](https://github.com/shreya-panale?tab=repositories)
 
 😄 Pronouns : She/Her
 
@@ -40,10 +40,10 @@
 <img align="left" src="https://img.icons8.com/color/32/000000/git.png"/></p>
 <br><br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaPanale&theme=tokyonight" alt="ShreyaPanale" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreya-panale&theme=tokyonight" alt="shreya-panale" /></p>
  
 <!--
-**ShreyaPanale/ShreyaPanale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shreya-panale/shreya-panale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
